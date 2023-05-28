@@ -116,5 +116,8 @@
   <img align="center" src="https://streak-stats.demolab.com?user=vitorsantos93&theme=rising-sun&hide_border=true&card_width=508)](https://git.io/streak-stats" />
 </p>
 
-
+<p align="center">
+  <img alt="Stars" src="https://img.shields.io/github/stars/vitorsantos93/vitorsantos93?style=highcontrast&labelColor=red&color=orange"/>
+  <img alt="Forks" src="https://img.shields.io/github/forks/vitorsantos93/vitorsantos93?style=highcontrast&labelColor=red&color=orange"/>
+</p>
 
