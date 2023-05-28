@@ -117,6 +117,10 @@
 </p>
 
 <p align="center">
+  <img align="center" src="https://cdn2.hubspot.net/hub/4650993/avast-blog/Avast-5-Endpoint-Threats-Article-Design.png" />
+</p>
+
+<p align="center">
   <img alt="Stars" src="https://img.shields.io/github/stars/vitorsantos93/vitorsantos93?style=highcontrast&labelColor=red&color=orange"/>
   <img alt="Forks" src="https://img.shields.io/github/forks/vitorsantos93/vitorsantos93?style=highcontrast&labelColor=red&color=orange"/>
 </p>
