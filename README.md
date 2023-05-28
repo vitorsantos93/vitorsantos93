@@ -1,9 +1,8 @@
 <h1 align="center"> Hello! 👋 I'm Vitor Santos! <br><br> A passionate junior Full Stack Web Developer.</h1>
 
 <p align="center">
-  <img align="center" alt="IT" src="https://miro.medium.com/v2/resize:fit:1400/0*x4rQFjfi0iK3gS1T.gif">
+  <img align="center" alt="Coding" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 </p>
-
 
 <br>
 
@@ -26,7 +25,7 @@
 <h2 align="center">🔨 Technologies & Tools </h2>
 
 <p align="center">
-  <img align="center" alt="Coding" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
+  <img align="center" alt="IT" src="https://miro.medium.com/v2/resize:fit:720/format:webp/0*5o__O4GPdEkYH0qt.jpeg">
 </p>
 
 <h3 align="center">Front-End</h3>
