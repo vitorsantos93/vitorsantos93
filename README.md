@@ -97,9 +97,11 @@
 <br>
 
 <h2 align="center">:chart: Stats </h2>
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vitorsantos93&theme=codeSTACKr)
+
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=vitorsantos93)](https://github.com/vitorsantos93/github-readme-stats)
+
 <p align="center">
- 
+   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vitorsantos93&theme=codeSTACKr">
 </p>
 
 <p align="center">
