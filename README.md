@@ -97,9 +97,9 @@
 <br>
 
 <h2 align="center">:chart: Stats </h2>
-
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vitorsantos93&theme=codeSTACKr)
 <p align="center">
- ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vitorsantos93&theme=codeSTACKr)
+ 
 </p>
 
 <p align="center">
