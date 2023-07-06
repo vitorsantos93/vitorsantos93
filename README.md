@@ -12,7 +12,7 @@
 
 🔧 When it comes to the back-end, I have experience with server-side programming languages such as Node.js and Python(Still learning). I'm familiar with building RESTful APIs with Insomnia and connecting databases like MySQL and MongoDB.
 
-🚀 Additionally, I'm comfortable with version control using Git and I'm confortable to work in Agile and Scrum development environments.
+🚀 Additionally, I'm comfortable with version control using Git and I'm comfortable to work in Agile and Scrum development environments.
 
 📚 I'm constantly learning and staying up-to-date with the latest trends and technologies in web development. I believe in continuous improvement and actively seek new challenges to enhance my skills.
 
