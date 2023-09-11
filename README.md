@@ -1,4 +1,4 @@
-<h1 align="center"> Hello! 👋 I'm Vitor! <br> A passionate Full Stack Developer.</h1>
+<h1 align="center"> Hello! 👋 I'm Vitor! <br> A passionate Full Stack Developer</h1>
 
 <p align="center">
   <img align="center" alt="Coding" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
@@ -105,10 +105,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vitorsantos93&theme=codeSTACKr&show_icons=true" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vitorsantos93&theme=codeSTACKr&utcOffset=8" />
-</p>
-
-<p align="center">
-  <img align="center" src="https://streak-stats.demolab.com?user=vitorsantos93&theme=rising-sun&hide_border=true&card_width=508)](https://git.io/streak-stats" />
 </p>
 
 <p align="center">
